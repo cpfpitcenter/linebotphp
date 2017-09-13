@@ -28,7 +28,6 @@ if (!is_null($events['events'])) {
 			// Build message to reply back
             
 			$messages = 'X';
-			$messages_2 = 'X';
 			
 			$msg = array();
 			
